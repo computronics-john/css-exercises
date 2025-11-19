@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.cool {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.cool.cooler {
+    font-size: 24px;
+}
+#dos {
+    color:blue;
+    font-size: 36px;
+}
+#quatro {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
