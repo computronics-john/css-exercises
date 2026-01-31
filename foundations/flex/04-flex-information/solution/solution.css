@@ -35,12 +35,12 @@ body {
   margin-bottom: 32px;
 }
 
-.container {
+.plants {
   display: flex;
   justify-content: center;
   gap: 52px;
 }
 
-.info {
+.plant1, .plant2, .plant3, .plant4 {
   max-width: 200px;
 }
